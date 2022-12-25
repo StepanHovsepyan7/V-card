@@ -26,7 +26,8 @@ html {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  height: 600px;
+  height: 60%;
+  padding-bottom: 1%;
   width: 30%;
   margin: 0 auto;
   background-color: #0D1117;
